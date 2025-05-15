@@ -334,7 +334,7 @@ elif page == "🤖 AI Chatbot":
     from langchain_groq import ChatGroq
 
     # Hard-coded API key
-    GROQ_API_KEY = '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'
+    GROQ_API_KEY = 'REPLACE_WITH_YOUR_GROQ_API_KEY_HERE'
 
     # Colors and emojis
     EMOJIS = ["🧠", "🌼", "💬", "🧓", "🩺", "🌟", "❤️", "👵", "🌿"]
